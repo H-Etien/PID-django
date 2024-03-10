@@ -1,6 +1,7 @@
 # PID-django
 
 Dans Fixtures.json pour créer des pseudos personnes, pourquoi catalogue.type et pas catalogue.types ?
+le ifchier python est bien types, pas type
 
 
 ![image](https://github.com/H-Etien/PID-django/assets/91025478/a563e96b-c49c-4689-bc33-a476d8a8e84b)
