@@ -1,0 +1,44 @@
+[
+  {
+    "model": "catalogue.type",
+    "pk": 1,
+    "fields": {
+      "type": "auteur"
+    }
+  },
+  {
+    "model": "catalogue.type",
+    "pk": 2,
+    "fields": {
+      "type": "scénographe"
+    }
+  },
+  {
+    "model": "catalogue.type",
+    "pk": 3,
+    "fields": {
+      "type": "comédien"
+    }
+  },
+  {
+    "model": "catalogue.type",
+    "pk": 4,
+    "fields": {
+      "type": "doubleur"
+    }
+  },
+  {
+    "model": "catalogue.type",
+    "pk": 4,
+    "fields": {
+      "type": "acteur"
+    }
+  },
+  {
+    "model": "catalogue.type",
+    "pk": 4,
+    "fields": {
+      "type": "journaliste"
+    }
+  }
+]
